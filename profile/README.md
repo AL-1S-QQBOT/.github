@@ -22,8 +22,6 @@ AL-1S-QQBOT 是一个专注于 QQ 机器人插件开发的组织，主要围绕 
 
 > 今日运势插件
 
----
-
 ## 🛠 技术栈
 
 - **框架**: [Koishi](https://github.com/koishijs/koishi)

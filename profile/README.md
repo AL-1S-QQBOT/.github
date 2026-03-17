@@ -1,12 +1,15 @@
+<img src="https://github.com/user-attachments/assets/67adce94-e2ec-46ea-b27b-455ffcc7e066" width = "196" height = "255" alt="爱丽丝" align=right />
+
+
 <div align="center">
 
 # AL-1S-QQBOT
 
-> QQ 机器人 AL-1S 运营团队
+_An official QQ bot develop group._
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-AL--1S--QQBOT-blue?style=flat-square)](https://github.com/AL-1S-QQBOT)
 
 </div>
+
 
 ## 📋 组织简介
 

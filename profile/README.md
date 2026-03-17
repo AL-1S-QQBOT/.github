@@ -1,8 +1,12 @@
-# 🤖 AL-1S-QQBOT
+<div align="center">
+
+# AL-1S-QQBOT
 
 > QQ 机器人 AL-1S 运营团队
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-AL--1S--QQBOT-blue?style=flat-square)](https://github.com/AL-1S-QQBOT)
+
+</div>
 
 ## 📋 组织简介
 
